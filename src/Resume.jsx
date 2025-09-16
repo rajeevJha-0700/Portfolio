@@ -1,5 +1,7 @@
 import React from 'react';
-import RRJ_resume from './assets/RRJ_resume.pdf';
+import RRJ_resume from './assets/RRJ_resume.pdf_updated';
+
+
 
 function Resume() {
   return (
