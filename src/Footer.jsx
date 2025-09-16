@@ -1,5 +1,4 @@
-import React from 'react';
-import { FaTwitter, FaLinkedin, FaEnvelope } from 'react-icons/fa';
+import { FaTwitter, FaLinkedin, FaEnvelope, FaGithub } from 'react-icons/fa';
 
 function Footer() {
   return (
@@ -20,6 +19,14 @@ function Footer() {
           className="text-cyan-400 hover:text-cyan-200 hover:scale-125 transition-all duration-300"
         >
           <FaLinkedin size={28} />
+        </a>
+        <a
+          href="https://github.com/rajeevJha-0700" // Replace with your GitHub profile URL
+          target="_blank"
+          rel="noopener noreferrer"
+          className="text-cyan-400 hover:text-cyan-200 hover:scale-125 transition-all duration-300"
+        >
+          <FaGithub size={28} />
         </a>
         <a
           href="mailto:rajeevranjanjha0001@gmail.com"
