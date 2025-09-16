@@ -1,5 +1,5 @@
-import React from 'react';
-import RRJ_resume from './assets/RRJ_resume.pdf_updated';
+
+import RRJ_resume from './assets/RRJ_resume_updated.pdf';
 
 
 
