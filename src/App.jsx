@@ -25,8 +25,8 @@ function App() {
 
   const projects = [
     
-  { description: "Developed and deployed a react-based web application enabling students to publish and share creative contents in an organised manner", link: 'https://neverold.shop.vercel.app', image: Neverold },
-  { description: "Developed a campus marketplace web application using React, Supabase, and TailwindCSS, enabling students to buy and sell pre-owned items within their college community", link: 'https://neverold-shop.vercel.app', image: niecWrites },
+  { description: "Developed and deployed a react-based web application enabling students to publish and share creative contents in an organised manner", link: 'https://neverold-shop.vercel.app', image: Neverold },
+  { description: "Developed a campus marketplace web application using React, Supabase, and TailwindCSS, enabling students to buy and sell pre-owned items within their college community", link: 'https://niec-writes.vercel.app', image: niecWrites },
   { description: 'ISM Portal (IoT Sensor Monitoring) is a real-time web dashboard for visualizing data from multiple IoT sensors installed in home and sensor data can be accessed from anywhere anytime', link: 'https://github.com/rajeevJha-0700/ISM-portal', image:ISM },
   { description: 'NetNexus is a LAN-based real-time chat app that lets users on the same Wi-Fi or hotspot chat without internet built using nodejs , socketIO , it ensures low-latency messaging (5–50ms approx) and supports 10– 15 users efficiently on standard routers', link: 'https://github.com/rajeevJha-0700/netnexus', image: 'https://via.placeholder.com/300x200' },
   { description: 'Frontend Project for Saas Contracts Dashboard', link: 'https://saas-contracts-pi.vercel.app', image: SaasContracts },
