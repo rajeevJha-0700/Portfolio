@@ -1,5 +1,5 @@
 
-import RRJ_resume from './assets/RRJ_resume_updated.pdf';
+import RRJ_resume from './assets/resume.pdf';
 
 
 
